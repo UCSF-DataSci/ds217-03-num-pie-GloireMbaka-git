@@ -46,8 +46,6 @@ env/
 env.bak/
 venv.bak/
 
-# Output folder for generated reports
-output/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
